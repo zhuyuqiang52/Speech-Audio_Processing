@@ -1,2 +1,2 @@
 # Speech-Audio_Processing
-For Coolumbia EECS 6820
+For Columbia EECS 6820
